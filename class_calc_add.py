@@ -8,7 +8,7 @@ class Calcu:
         return c
 
 
-x = Calcu(29, 3)
+x = Calcu(29, 13)
 result = x.Add()
 # print("result: ", result)
 # print(x.a)
