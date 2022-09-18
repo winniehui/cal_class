@@ -39,4 +39,5 @@ n = m.sum_diff()
 print (n)
 p = m.Add()
 print (p)
-    
+p2 = m.Mul() 
+print(p2)
